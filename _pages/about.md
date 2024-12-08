@@ -23,10 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 My [first paper](https://doi.org/10.19356/j.cnki.1001-3997.20240725.040.) is accepted by Machinery Design & Manufacture.
+- *2023.11*: &nbsp;🎉🎉 I complete my first paper and submit it to [Machinery Design & Manufacture](https://jsyz.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=JSYZ).
 
 # 📝 Publications 
 
@@ -42,18 +41,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Design and Error Analysis of Open-loop Trajectory Carbon-free Trolley](https://doi.org/10.19356/j.cnki.1001-3997.20240725.040.), Zhang Xiaomin, **Zhang Zihan**, Lihang, Fan Zhiyong, Mechanical Design and Manufacture, 2024.
+- [Design and Error Analysis of Open-loop Trajectory Carbon-free Trolley](https://doi.org/10.19356/j.cnki.1001-3997.20240725.040.), Zhang Xiaomin, **Zhang Zihan**, Lihang, Fan Zhiyong, Machinery Design & Manufacture, 2024.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+-
+- *2023.11* My team win the **National First Prize** in National College Mathematical Modeling Contest (Higher Education Cup), Top 299 out of 65761 teams. 
+- *2022.12* My team win the **National Second Prize** in National College Students' Physics Experiment Competition.
+  
 # 📖 Educations
 - *2025.09 - furture*, PH.D in Institute of Vehicle Propulsion, School of Aeronautics and Astronautics, Zhejiang University, Zhejiang, China.
 - *2021.09 - 2025.06*, Bachelor from Aeronautical Engineering Institute, Civil Aviation University of China, Tianjin, China. 
 
 # 💬 Conferences
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
