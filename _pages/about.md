@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Design and Error Analysis of Open-loop Trajectory Carbon-free Trolley](https://doi.org/10.19356/j.cnki.1001-3997.20240725.040.), Zhang Xiaomin, **Zhang Zihan**, Lihang, Fan Zhiyong, Mechanical Design and Manufacture, 2024.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
