@@ -44,7 +44,6 @@ My research interest includes neural machine translation and computer vision. I 
 - [Design and Error Analysis of Open-loop Trajectory Carbon-free Trolley](https://kns.cnki.net/kcms2/article/abstract?v=lvdN5-6qPlO0DCxzqwC8gdgLzPX_80sdzRzlbAq8lR1NK4fpyxAgnbozbqqonFEEL9RZdpjfqfrMqkxDRdgBuUTE0bc83Ho7oLd06oatOTUXBPaLae02YgSXS0-Rq2wPrY_ja0-mqZ5GP3RjiG6DPHIgSzXgBvPp5WvA1E4ZjkRsvtW4sjMSwkPcLjqcfc-b&uniplatform=NZKPT&language=CHS), Zhang Xiaomin, **Zhang Zihan**, Lihang, Fan Zhiyong, Machinery Design & Manufacture, 2024.
 
 # 🎖 Honors and Awards
--
 - *2023.11* My team win the **National First Prize** in National College Mathematical Modeling Contest (Higher Education Cup), Top 299 out of 65761 teams. 
 - *2022.12* My team win the **National Second Prize** in National College Students' Physics Experiment Competition.
   
