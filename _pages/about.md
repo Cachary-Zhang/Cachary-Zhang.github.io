@@ -24,7 +24,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 My [first paper](https://doi.org/10.19356/j.cnki.1001-3997.20240725.040.) is accepted by Machinery Design & Manufacture.
+- *2024.01*: &nbsp;🎉🎉 My [first paper](https://kns.cnki.net/kcms2/article/abstract?v=lvdN5-6qPlO0DCxzqwC8gdgLzPX_80sdzRzlbAq8lR1NK4fpyxAgnbozbqqonFEEL9RZdpjfqfrMqkxDRdgBuUTE0bc83Ho7oLd06oatOTUXBPaLae02YgSXS0-Rq2wPrY_ja0-mqZ5GP3RjiG6DPHIgSzXgBvPp5WvA1E4ZjkRsvtW4sjMSwkPcLjqcfc-b&uniplatform=NZKPT&language=CHS) is accepted by Machinery Design & Manufacture.
 - *2023.11*: &nbsp;🎉🎉 I complete my first paper and submit it to [Machinery Design & Manufacture](https://jsyz.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=JSYZ).
 
 # 📝 Publications 
@@ -41,7 +41,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Design and Error Analysis of Open-loop Trajectory Carbon-free Trolley](https://doi.org/10.19356/j.cnki.1001-3997.20240725.040.), Zhang Xiaomin, **Zhang Zihan**, Lihang, Fan Zhiyong, Machinery Design & Manufacture, 2024.
+- [Design and Error Analysis of Open-loop Trajectory Carbon-free Trolley](https://kns.cnki.net/kcms2/article/abstract?v=lvdN5-6qPlO0DCxzqwC8gdgLzPX_80sdzRzlbAq8lR1NK4fpyxAgnbozbqqonFEEL9RZdpjfqfrMqkxDRdgBuUTE0bc83Ho7oLd06oatOTUXBPaLae02YgSXS0-Rq2wPrY_ja0-mqZ5GP3RjiG6DPHIgSzXgBvPp5WvA1E4ZjkRsvtW4sjMSwkPcLjqcfc-b&uniplatform=NZKPT&language=CHS), Zhang Xiaomin, **Zhang Zihan**, Lihang, Fan Zhiyong, Machinery Design & Manufacture, 2024.
 
 # 🎖 Honors and Awards
 -
