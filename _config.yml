@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Zihan-Zhang"
+description              : "PH.D. ready to candidate in Zhejiang University. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zihan-Zhang"
   avatar           : "images/profile.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Zihan-Zhang"
   location         : "Zhejiang, Hangzhou, China"
   employer         :
   pubmed           : 
