@@ -50,7 +50,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2025.09 - furture*, PH.D in Institute of Vehicle Propulsion, School of Aeronautics and Astronautics, Zhejiang University, Zhejiang, China.
-- *2021.09 - 2025.06*, Bachelor from Aeronautical Engineering Institute, Civil Aviation University of China, Tianjin， China. 
+- *2021.09 - 2025.06*, Bachelor from Aeronautical Engineering Institute, Civil Aviation University of China, Tianjin, China. 
 
 # 💬 Conferences
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
