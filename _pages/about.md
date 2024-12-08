@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my Homepage! My name is Zihan Zhang. I am an undergraduate student in Civil Avaition University of China, major in Aircraft Dynamics Engineering. And next year I will study as a first year Ph.D. student in Institute of Vehicle Propulsion, Zhejiang University (2025-), supervised by [Prof.Jiaqi Luo][Luo] 
+Welcome to my Homepage! My name is Zihan Zhang. I am an undergraduate student in Civil Aviation University of China, major in Aircraft Dynamics Engineering. And next year I will study as a first year Ph.D. student in Institute of Vehicle Propulsion, Zhejiang University (2025-), supervised by [Prof.Jiaqi Luo](https://person.zju.edu.cn/0018086#956496).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-[Luo]:https://person.zju.edu.cn/0018086#956496
+
 
 
 # 🔥 News
@@ -49,10 +49,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - furture*, PH.D in Institute of Vehicle Propulsion，School of Aeronautics and Astronautics, Zhejiang University, Zhejiang, China.
+- *2021.09 - 2025.06*, Bachelor from Aeronautical Engineering Institute, Civil Aviation University of China, Tianjin， China. 
 
-# 💬 Invited Talks
+# 💬 Conferences
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
