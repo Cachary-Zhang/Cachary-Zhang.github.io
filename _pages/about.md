@@ -53,11 +53,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09 - 2025.06*, Bachelor from Aeronautical Engineering Institute, Civil Aviation University of China, Tianjin, China. 
 
 # 💬 Conferences
-
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Special Experiences
 
-# Researches
+
 
