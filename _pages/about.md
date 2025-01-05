@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my Homepage! My name is Zihan Zhang. I am an undergraduate student in Civil Aviation University of China, major in Aircraft Dynamics Engineering. And next year I will study as a first year Ph.D. student in Institute of Vehicle Propulsion, Zhejiang University (2025-), supervised by [Prof.Jiaqi Luo](https://person.zju.edu.cn/0018086#956496).
+Welcome to my Homepage! My name is Zihan Zhang. I am a first year Ph.D student in Institute of Vehicle Propulsion, Zhejiang University (2025-future), supervised by [Prof.Jiaqi Luo](https://person.zju.edu.cn/0018086#956496). I major in machanical engineering, mainly doing research in Computational Fluid Mechanics (Discrete adjoint method). I have received my Bachelor's degree from Civil Aviation University of China in Tianjin (2021-2025), major in Aircraft Dynamics Engineering.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
+I am majoring in Fluid mechanics and doing some research on how to find a greater way to improve the calculate efficiency of Discrete adjoint method.
 
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 My [first paper](https://kns.cnki.net/kcms2/article/abstract?v=lvdN5-6qPlO0DCxzqwC8gdgLzPX_80sdzRzlbAq8lR1NK4fpyxAgnbozbqqonFEEL9RZdpjfqfrMqkxDRdgBuUTE0bc83Ho7oLd06oatOTUXBPaLae02YgSXS0-Rq2wPrY_ja0-mqZ5GP3RjiG6DPHIgSzXgBvPp5WvA1E4ZjkRsvtW4sjMSwkPcLjqcfc-b&uniplatform=NZKPT&language=CHS) is accepted by Machinery Design & Manufacture.
