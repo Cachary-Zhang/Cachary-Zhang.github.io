@@ -22,7 +22,7 @@ redirect_from:
 - *2025.08 - now*: I am currently focused on developing a methodology for addressing engineered **Turboblade design**, which can not only design turboblade positively by using several design parameters, but also can solve backward acccording to the known points.
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 My [first paper](https://github.com/Cachary-Zhang/Cachary-Zhang.github.io/edit/main/docs/Design and Error Analysis of Open-Loop Trajectory Carbon-Free Trolley.pdf) is accepted by Machinery Design & Manufacture.
+- *2024.01*: &nbsp;🎉🎉 My [first paper](docs/Design and Error Analysis of Open-Loop Trajectory Carbon-Free Trolley.pdf) is accepted by Machinery Design & Manufacture.
 - *2023.11*: &nbsp;🎉🎉 I complete my first paper and submit it to [Machinery Design & Manufacture](https://jsyz.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=JSYZ).
 
 # 📝 Publications 
