@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, YOU REALLY FIND A GREAT BOY! Welcome to my Homepage! My name is **Zihan Zhang**. I am a first year Ph.D student in Institute of Vehicle Propulsion, Zhejiang University (2025-future), supervised by [Prof.Jiaqi Luo](https://person.zju.edu.cn/0018086#956496). I major in machanical engineering, mainly doing research in Computational Fluid Mechanics (Aerodynamic Uncertainty Quantification). I have received my Bachelor's degree from Civil Aviation University of China in Tianjin (2021-2025), major in Aircraft Dynamics Engineering.
+<font color=Blue>Hi, YOU REALLY FIND A GREAT BOY!</font> Welcome to my Homepage! My name is **Zihan Zhang**. I am a first year Ph.D student in Institute of Vehicle Propulsion, Zhejiang University (2025-future), supervised by [Prof.Jiaqi Luo](https://person.zju.edu.cn/0018086#956496). I major in machanical engineering, mainly doing research in Computational Fluid Mechanics (Aerodynamic Uncertainty Quantification). I have received my Bachelor's degree from Civil Aviation University of China in Tianjin (2021-2025), major in Aircraft Dynamics Engineering, under the supervision of <font color=red>Xiaomin-Zhang</font>.
 
 I am majoring in Fluid mechanics and doing some research on how to find a greater way to improve the calculate efficiency of Discrete adjoint method.
 
